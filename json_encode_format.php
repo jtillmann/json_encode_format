@@ -1,8 +1,8 @@
 <?php
 
 
-function json_encode_format( $array )
-{
+function json_encode_format($array){
+	
 	$json = json_encode($array);
 
 
